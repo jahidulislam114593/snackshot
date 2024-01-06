@@ -1,0 +1,9 @@
+<script src="{{ asset('website/assets/js/jquery-1.11.0.min.js') }}  "></script>
+<script src="{{ asset('website/assets/js/jquery-migrate-1.2.1.min.js')}}  "></script>
+<script src="{{ asset('website/assets/js/bootstrap.bundle.min.js')}}  "></script>
+<script src="{{ asset('website/assets/js/templatemo.js') }}  "></script>
+<script src="{{ asset('website/assets/js/custom.js') }} "></script>
+<script src="js/jquery.min.js"></script>
+<script src="js/popper.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/main.js"></script>
